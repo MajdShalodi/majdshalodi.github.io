@@ -1,0 +1,25 @@
+@charset "utf-8";
+
+#results {
+    display:none;
+  }
+
+body{
+
+    background-image: url('friends.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Irish Grover', cursive;
+    font-family: 'Satisfy', cursive;
+}
+
+.card{
+    border-radius: 10%;
+    opacity: 90%;
+}
+
+.input-group-addon{
+    background-color: white;
+    opacity: 90%;
+    border: none;
+}
